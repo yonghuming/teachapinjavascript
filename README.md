@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Teaching AP CSA in JavaScript
 
-You can use the [editor on GitHub](https://github.com/yonghuming/teachapinjavascript/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I just teach AP computer science principle, and i choose p5.js to make programming more interesting!
 
 ### Markdown
 
